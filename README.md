@@ -1,5 +1,5 @@
 # CU-2824-Project
-Project for 2824 at CU Boulder using RSA encryption
+Project for 2824 at CU Boulder using RSA encryption, written in Python language.
 
 This project was the finished product for my 2824 class project. This is an RSA code project. 
 
