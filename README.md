@@ -51,26 +51,3 @@ To run this program, follow these steps:
 3. **Run the Notebook:**
 
    Run all the cells in the notebook to execute the program.
-
-## Example
-
-Here's a brief example of how to use the program within the notebook:
-
-1. **Convert Text to Integer List:**
-   ```python
-   def Convert_Text(_string):
-       integer_list = []
-       for c in _string:
-           integer_list.append(ord(c))
-       return integer_list
-   ```
-
-2. **Generate Keys and Encrypt Message:**
-   ```python
-   # Code to generate keys and encrypt message
-   ```
-
-3. **Decrypt Message:**
-   ```python
-   # Code to decrypt message
-   ```
